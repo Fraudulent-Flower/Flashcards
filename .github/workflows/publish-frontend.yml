@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - "main"
+      - "images"
     paths: "Frontend/**"
   workflow_dispatch:
 
