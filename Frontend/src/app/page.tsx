@@ -9,7 +9,7 @@ export default function Home() {
           className={styles.logo}
           src={`${process.env.BASE_PATH}/next.svg`}
           alt="Next.js logo"
-          width={10}
+          width={200}
           height={38}
           priority
         />
